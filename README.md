@@ -1,5 +1,5 @@
 # xmodem-ftp
-xmodel file transfer protocol
+xmodem file transfer protocol
 
 |Symbol|Description|
 |---|---|
